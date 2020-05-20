@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585302601977",
+    "firebase_url": "https://projeto1-bfeb3.firebaseio.com",
+    "project_id": "projeto1-bfeb3",
+    "storage_bucket": "projeto1-bfeb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585302601977:android:06c7ed1ab0b938032b3228",
+        "android_client_info": {
+          "package_name": "com.loja.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585302601977-0b3bqfvrnjab98s28kg5dl8p4h5e4pn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKb-02i9wT6XqvB9isfvSmkilg4gwm44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585302601977-0b3bqfvrnjab98s28kg5dl8p4h5e4pn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
